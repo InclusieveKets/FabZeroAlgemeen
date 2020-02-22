@@ -1,6 +1,6 @@
 # Startpagina
 
-![](./images/week01/assignment-photo.jpg)
+![](./images/index/logo.png)
 
 ## Welkom op de interne FabZero website
 Hier kun je info terug vinden over:
